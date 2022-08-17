@@ -2,4 +2,4 @@
 
 Etch-a-Sketch using JS.
 
-<a href="">Live Preview:</a>
+<a href="https://danielgrec.github.io/etch-a-sketch/">Live Preview:</a>
