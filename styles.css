@@ -1,0 +1,16 @@
+#top {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:0 0 25px 0;
+}
+
+#heading {
+    background-color: palegoldenrod;
+}
+
+.btt {
+    text-align: center;
+    padding: 5%;
+    background-color: palegoldenrod;
+    margin: 0;
+}
