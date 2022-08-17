@@ -1,3 +1,4 @@
+/* GENERAL STYLING */
 * {
 	font-family: "VT323", monospace;
 }
@@ -32,6 +33,7 @@ button {
 	outline: none;
 }
 
+/* COLOR INPUT */
 .colorAndPrompt {
 	display: flex;
 	flex-direction: column;
@@ -68,6 +70,7 @@ button:active {
 	background: linear-gradient(to right, #d291bc, #e0bbe4, #fec8d8);
 }
 
+/* SLIDER AND VALUE */
 .sliderAndValue {
 	display: flex;
 	flex-direction: row;
@@ -122,6 +125,7 @@ button:active {
 	border: 1px solid black;
 }
 
+/* FOOTER */
 footer {
 	font-size: 25px;
 	bottom: 0;
