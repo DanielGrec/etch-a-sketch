@@ -8,7 +8,7 @@ body {
 	align-items: center;
 	flex-direction: column;
 	background-color: rgb(240, 240, 37);
-	margin-top: -30px;
+	padding: 5em 0;
 }
 
 h1 {
